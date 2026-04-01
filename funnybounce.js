@@ -4,8 +4,8 @@ if(!oldImg){
 let img = document.createElement("img");
 let imgProps = {
 src: "https://raw.githubusercontent.com/RyderTheApple/Rays-Bookmarklets/refs/heads/main/faputaball.png",
-w:50,
-h:50,
+w:100,
+h:100,
 x: 0,
 y: 0,
 vx: 2,
