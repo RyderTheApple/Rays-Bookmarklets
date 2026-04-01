@@ -11,7 +11,7 @@ y: (window.innerHeight-100)/2,
 vx: 2,
 vy: 2,
 angle: 0,
-va: -2
+va: 2
 };
 img.src = imgProps.src;
 img.setAttribute('id',"faputaball");
